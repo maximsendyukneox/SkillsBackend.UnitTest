@@ -1,0 +1,12 @@
+C:\Users\Work\source\repos\Skills\skillsdotnet7\SkillsBackend.UnitTest\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Work\source\repos\Skills\skillsdotnet7\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\Skills\skillsdotnet7\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\source\repos\Skills\skillsdotnet7\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Work\source\repos\Skills\skillsdotnet7\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.AssemblyInfo.cs
+C:\Users\Work\source\repos\Skills\skillsdotnet7\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\Skills\SkillsBackend.UnitTest\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\Work\source\repos\Skills\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\Skills\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\source\repos\Skills\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Work\source\repos\Skills\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.AssemblyInfo.cs
+C:\Users\Work\source\repos\Skills\SkillsBackend.UnitTest\obj\Debug\net7.0\SkillsBackend.UnitTest.csproj.CoreCompileInputs.cache
